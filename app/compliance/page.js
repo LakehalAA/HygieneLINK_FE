@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import { Shield, Calendar, AlertTriangle, CheckCircle, FileText, Clock, Award, TrendingUp, Filter, Search, Plus, Edit, Eye, BarChart3, AlertCircle } from 'lucide-react';
 

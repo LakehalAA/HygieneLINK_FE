@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import { Settings, User, Shield, Bell, Database, Globe, Users, Building, Wrench, Save, Eye, EyeOff, Droplet } from 'lucide-react';
 
